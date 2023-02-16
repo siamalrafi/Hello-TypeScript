@@ -1,1 +1,1 @@
-console.log('TypeScript Getting Started');
+console.log('Hello TypeScript.');
