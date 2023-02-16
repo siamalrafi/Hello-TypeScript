@@ -1,2 +1,3 @@
 "use strict";
-console.log('TypeScript Getting Started');
+let x = false;
+console.log(x);

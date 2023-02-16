@@ -1,1 +1,3 @@
-console.log('Hello TypeScript.');
+let x: any = false;
+
+console.log(x);
