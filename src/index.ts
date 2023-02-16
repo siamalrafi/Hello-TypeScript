@@ -1,3 +1,1 @@
-let x: any = false;
-
-console.log(x);
+console.log('object.create');
